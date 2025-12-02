@@ -1,7 +1,6 @@
 # Budget-and-Sales-Analysis
 
 ✅ 📊 Power BI Project: Sales vs Budget Performance Dashboard
-(Portfolio Project – LinkedIn & GitHub Summary)
 
 📌 Project Overview
 
