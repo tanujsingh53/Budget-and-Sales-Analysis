@@ -177,3 +177,6 @@ Screenshots of dashboard pages
 
 Full list of custom DAX measures
 
+<img width="1279" height="726" alt="Dashboard" src="https://github.com/user-attachments/assets/3e48dd9d-b470-4808-95e8-fbccddcb753b" />
+
+
